@@ -9,6 +9,6 @@ title: Biography
 design:
   background:
     text_color_light: false
-    image: ""
+    image: z0-mmpfx.jpg
 ---
 TEst
