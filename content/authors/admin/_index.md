@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Roland Kappe
+role: Lecturer in Political Economy
 avatar_filename: z0-mmpfx.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
