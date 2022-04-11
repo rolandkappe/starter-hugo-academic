@@ -39,9 +39,10 @@ email: r.kappe@ucl.ac.uk
 superuser: true
 highlight_name: true
 ---
+I am a Lecturer (Assistant Professor) in Political Economy at University College London. I teach in [UCL’s Department of Political Science (School of Public Policy)](https://www.ucl.ac.uk/political-science/), as well as in the [Department of European Social and Political Studies](https://www.ucl.ac.uk/european-international-social-political-studies/).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Before joining UCL, I received my PhD in political science at [Stony Brook University](https://www.stonybrook.edu/polsci/) in New York. Originally from Paderborn, Germany, I studied [‘politics and administration’ at the University of Konstanz](https://www.polver.uni-konstanz.de/), and the University of Pavia in Italy, and worked for the OECD in Paris. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is in comparative political economy, political behaviour, public opinion and elections.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
