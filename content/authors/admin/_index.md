@@ -27,6 +27,8 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: University College London
+    url: https://www.ucl.ac.uk/political-science/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,7 +40,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: r.kappe@ucl.ac.uk
 superuser: true
 highlight_name: true
 ---
