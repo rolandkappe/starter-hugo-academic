@@ -25,21 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: University College London
     url: https://www.ucl.ac.uk/political-science/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Political Science
+      institution: Stony Brook Uiversity
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Politics and Management
+      institution: University of Konstanz
+      year: 2007
 email: r.kappe@ucl.ac.uk
 superuser: true
 highlight_name: true
