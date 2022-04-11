@@ -1,7 +1,7 @@
 ---
 title: Roland Kappe
 role: Lecturer in Political Economy
-avatar_filename: z0-mmpfx.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
