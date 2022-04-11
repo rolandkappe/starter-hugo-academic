@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: PhD in Political Science
-      institution: Stony Brook Uiversity
+      institution: Stony Brook University
       year: 2012
     - course: MA in Politics and Management
       institution: University of Konstanz
